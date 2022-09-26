@@ -360,6 +360,7 @@ section.hero{
         text-align: left;
     }
     .column img{
+        width: unset;
         max-width: 90px;
     }
     .column p{
